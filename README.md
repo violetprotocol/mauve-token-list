@@ -2,7 +2,7 @@
 
 Token list for the Mauve DEX.
 
-Tokens supported:
+Tokens supported on Ethereum Mainnet:
 
 - Wrapped Ether
 - Wrapped BTC
