@@ -1,9 +1,10 @@
 import { schema } from "@uniswap/token-lists";
 import Ajv from "ajv";
 import addFormats from "ajv-formats";
-import tokenList from "./mauve.tokenlist.json";
+import mainnetTokenList from "./mauve.tokenlist.mainnet.json";
+import optimismGoerliTokenList from "./mauve.tokenlist.optimism-goerli.json";
 
-async function validate() {
+async function validate(tokenList) {
   const ajv = new Ajv({ allErrors: true, verbose: true });
   addFormats(ajv);
   const validator = ajv.compile(schema);
@@ -19,4 +20,9 @@ async function validate() {
   }
 }
 
-validate().then(console.log("Valid List.")).catch(console.error);
+validate(mainnetTokenList)
+  .then(console.log("Valid List."))
+  .catch(console.error);
+validate(optimismGoerliTokenList)
+  .then(console.log("Valid List."))
+  .catch(console.error);
