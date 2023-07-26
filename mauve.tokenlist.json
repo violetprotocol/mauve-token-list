@@ -2,7 +2,7 @@
   "name": "Mauve",
   "logoURI": "TBD",
   "keywords": ["mauve", "defi", "dex", "swap", "violet", "exchange"],
-  "timestamp": "2023-01-18T00:00:00.000+00:00",
+  "timestamp": "2023-07-126T00:00:00.000+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -45,28 +45,36 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
     },
     {
-      "chainId": 5,
-      "name": "Wrapped Ether",
-      "symbol": "WETH",
-      "decimals": 18,
-      "address": "0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6",
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
-    },
-    {
-      "chainId": 5,
-      "address": "0x07865c6E87B9F70255377e024ace6630C1Eaa37F",
+      "chainId": 420,
+      "address": "0x7E07E15D2a87A24492740D16f5bdF58c16db0c4E",
       "name": "USD Coin USDC",
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
     },
     {
-      "chainId": 5,
-      "address": "0x326C977E6efc84E512bB9C30f76E30c160eD06FB",
-      "name": "ChainLink Token",
-      "symbol": "LINK",
+      "chainId": 420,
+      "address": "0x32307adfFE088e383AFAa721b06436aDaBA47DBE",
+      "name": "Optimism Useless Token 1",
+      "symbol": "OUT-1",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/optimism/assets/0x4200000000000000000000000000000000000042/logo.png"
+    },
+    {
+      "chainId": 420,
+      "address": "0xb378eD8647D67b5dB6fD41817fd7a0949627D87a",
+      "name": "Optimism Useless Token 2",
+      "symbol": "OUT-2",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/optimism/assets/0x4200000000000000000000000000000000000042/logo.png"
+    },
+    {
+      "chainId": 420,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/optimism/assets/0x4200000000000000000000000000000000000006/logo.png"
     }
   ],
   "version": {
