@@ -2,7 +2,7 @@
   "name": "Mauve",
   "logoURI": "TBD",
   "keywords": ["mauve", "defi", "dex", "swap", "violet", "exchange"],
-  "timestamp": "2023-07-126T00:00:00.000+00:00",
+  "timestamp": "2023-09-04T00:00:00.000+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -14,35 +14,43 @@
     },
     {
       "chainId": 1,
-      "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
-      "name": "Dai Stablecoin",
-      "symbol": "DAI",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
-    },
-    {
-      "chainId": 1,
-      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
-      "name": "Tether USD",
-      "symbol": "USDT",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
-    },
-    {
-      "chainId": 1,
-      "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
-      "name": "Wrapped BTC",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
-    },
-    {
-      "chainId": 1,
       "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
       "name": "USD Coin USDC",
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xbe9895146f7af43049ca1c1ae358b0541ea49704",
+      "name": "Coinbase Wrapped Staked ETH",
+      "symbol": "cbETH",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/cbETH/logo.svg"
+    },
+    {
+      "chainId": 1,
+      "address": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
+      "name": "Liquid staked Ether 2.0",
+      "symbol": "stETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84/logo.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x8c1BEd5b9a0928467c9B1341Da1D7BD5e10b6549",
+      "name": "Liquid Staked ETH",
+      "symbol": "LsETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/28848/large/LsETH-receipt-token-circle.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x1aBaEA1f7C830bD89Acc67eC4af516284b1bC33c",
+      "name": "Euro Coin",
+      "symbol": "EUROC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0x1aBaEA1f7C830bD89Acc67eC4af516284b1bC33c/logo.png"
     }
   ],
   "version": {
