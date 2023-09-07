@@ -6,6 +6,14 @@
   "tokens": [
     {
       "chainId": 420,
+      "address": "0x0000000000000000000000000000000000000000",
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/info/logo.png"
+    },
+    {
+      "chainId": 420,
       "address": "0x7E07E15D2a87A24492740D16f5bdF58c16db0c4E",
       "name": "USD Coin USDC",
       "symbol": "USDC",

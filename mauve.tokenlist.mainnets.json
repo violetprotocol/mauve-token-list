@@ -6,6 +6,14 @@
   "tokens": [
     {
       "chainId": 1,
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18,
+      "address": "0x0000000000000000000000000000000000000000",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/info/logo.png"
+    },
+    {
+      "chainId": 1,
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
