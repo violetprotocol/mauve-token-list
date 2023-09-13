@@ -30,14 +30,6 @@
     },
     {
       "chainId": 1,
-      "address": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
-      "name": "Liquid staked Ether 2.0",
-      "symbol": "stETH",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84/logo.png"
-    },
-    {
-      "chainId": 1,
       "address": "0x8c1BEd5b9a0928467c9B1341Da1D7BD5e10b6549",
       "name": "Liquid Staked ETH",
       "symbol": "LsETH",
