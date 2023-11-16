@@ -73,13 +73,13 @@
       "address": "0x6d906e526a4e2Ca02097BA9d0caA3c382F52278E",
       "name": "STASIS EURS Token",
       "symbol": "EURS",
-      "decimals": 18,
+      "decimals": 2,
       "logoURI": "https://staging.aave.com/icons/tokens/eurs.svg"
     }
   ],
   "version": {
     "major": 1,
     "minor": 1,
-    "patch": 0
+    "patch": 1
   }
 }
