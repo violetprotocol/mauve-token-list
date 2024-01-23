@@ -2,7 +2,7 @@
   "name": "Mauve",
   "logoURI": "TBD",
   "keywords": ["mauve", "defi", "dex", "swap", "violet", "exchange"],
-  "timestamp": "2023-09-04T00:00:00.000+00:00",
+  "timestamp": "2024-01-23T15:59:04+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -51,11 +51,19 @@
       "symbol": "EUROC",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0x1aBaEA1f7C830bD89Acc67eC4af516284b1bC33c/logo.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xCA30c93B02514f86d5C86a6e375E3A330B435Fb5",
+      "name": "Backed IB01 $ Treasury Bond 0-1yr",
+      "symbol": "bIB01",
+      "decimals": 18,
+      "logoURI": "https://assets-global.website-files.com/655f3efc4be468487052e35a/655f66f632cc393b2d93b642_bIB01.svg"
     }
   ],
   "version": {
     "major": 1,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
